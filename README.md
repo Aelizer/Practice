@@ -8,3 +8,5 @@ another for Merge commit.
  1 branch.
 
 good.
+
+better.
